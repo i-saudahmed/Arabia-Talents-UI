@@ -13,3 +13,4 @@ This repository contains the frontend user interface (UI) of the Arabia Talents 
 - React
 - TypeScript 
 - Tailwind CSS
+ 
