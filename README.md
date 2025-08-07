@@ -9,7 +9,7 @@ This repository contains the frontend user interface (UI) of the Arabia Talents 
 - Styled with Tailwind CSS for rapid development and customization.
 
 ## Technologies Used
-
+ 
 - React
 - TypeScript
 - Tailwind CSS
