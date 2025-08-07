@@ -11,5 +11,5 @@ This repository contains the frontend user interface (UI) of the Arabia Talents 
 ## Technologies Used
  
 - React
-- TypeScript
+- TypeScript 
 - Tailwind CSS
